@@ -1,0 +1,17 @@
+.submitButton {
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    /*border: 1px solid black;*/
+    box-shadow: inset;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    background: rgb(14, 0, 255);
+    /* background: linear-gradient(90deg, rgba(14, 0, 255, 1) 0%, rgba(187, 215, 255, 1) 50%, rgba(0, 212, 255, 1) 100%); */
+}
+
+
+.submitButton:hover {
+    background: rgba(13, 0, 255, 0.748);
+}

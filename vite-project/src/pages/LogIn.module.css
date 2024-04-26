@@ -1,0 +1,15 @@
+.container {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../assets/blob-scene-haikei.svg');
+
+}
+
+.login_page_container {
+    height: 85vh;
+    width: 99vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
