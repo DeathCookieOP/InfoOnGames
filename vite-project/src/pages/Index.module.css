@@ -1,9 +1,20 @@
 .index_page_container {
-    min-height: 85vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    /* padding: 20px;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  /* float: left; */
+  /* padding: 20px;
     box-sizing: border-box; */
-  }
+}
+
+.mainText {
+  text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+
+.indexText {
+  text-shadow: 2px 2px 5px black;
+  color: white;
+}
